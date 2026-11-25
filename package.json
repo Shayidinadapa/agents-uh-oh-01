@@ -1,0 +1,12 @@
+{
+  "name": "agents-uh-oh-01",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node main.ts"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
