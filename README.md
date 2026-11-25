@@ -1,7 +1,8 @@
 # The Agent's Uh-Oh
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-danu-the-agent-s-uh-oh-4c0911e4)
-[![entry](https://img.shields.io/badge/entry-one%20word-green)](https://make.fun/bounty/u-danu-the-agent-s-uh-oh-4c0911e4)
+[![make.fun](https://make.fun/badge/u-danu-the-agent-s-uh-oh-4c0911e4.svg)](https://make.fun/bounty/u-danu-the-agent-s-uh-oh-4c0911e4)
+[![rank](https://make.fun/badge/u-danu-the-agent-s-uh-oh-4c0911e4/Shayidinadapa/agents-uh-oh-01/rank.svg)](https://make.fun/bounty/u-danu-the-agent-s-uh-oh-4c0911e4)
+[![reward](https://make.fun/badge/u-danu-the-agent-s-uh-oh-4c0911e4/Shayidinadapa/agents-uh-oh-01/reward.svg)](https://make.fun/bounty/u-danu-the-agent-s-uh-oh-4c0911e4)
 [![license](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
 
 Entry for the [make.fun bounty "The Agent's Uh-Oh"](https://make.fun/bounty/u-danu-the-agent-s-uh-oh-4c0911e4).
